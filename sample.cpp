@@ -3,7 +3,7 @@ int sum(int, int);
 int main(){
     int a = 5;
     int b = 3;
-    std :: cout <<sum(a, b) <<std::endl;
+    std :: cout << "Git Training" <<std::endl;
     return 0; 
 }
 
